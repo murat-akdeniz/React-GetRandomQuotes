@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/murat-akdeniz/React-GetRandomQuotes/static/css/main.307fe99b.chunk.css",
+    "main.js": "/murat-akdeniz/React-GetRandomQuotes/static/js/main.19f76326.chunk.js",
+    "main.js.map": "/murat-akdeniz/React-GetRandomQuotes/static/js/main.19f76326.chunk.js.map",
+    "runtime-main.js": "/murat-akdeniz/React-GetRandomQuotes/static/js/runtime-main.5dcf11b2.js",
+    "runtime-main.js.map": "/murat-akdeniz/React-GetRandomQuotes/static/js/runtime-main.5dcf11b2.js.map",
+    "static/js/2.91bf7832.chunk.js": "/murat-akdeniz/React-GetRandomQuotes/static/js/2.91bf7832.chunk.js",
+    "static/js/2.91bf7832.chunk.js.map": "/murat-akdeniz/React-GetRandomQuotes/static/js/2.91bf7832.chunk.js.map",
+    "index.html": "/murat-akdeniz/React-GetRandomQuotes/index.html",
+    "static/css/main.307fe99b.chunk.css.map": "/murat-akdeniz/React-GetRandomQuotes/static/css/main.307fe99b.chunk.css.map",
+    "static/js/2.91bf7832.chunk.js.LICENSE.txt": "/murat-akdeniz/React-GetRandomQuotes/static/js/2.91bf7832.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dcf11b2.js",
+    "static/js/2.91bf7832.chunk.js",
+    "static/css/main.307fe99b.chunk.css",
+    "static/js/main.19f76326.chunk.js"
+  ]
+}
